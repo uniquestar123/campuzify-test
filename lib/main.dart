@@ -101,7 +101,7 @@ class MyAppState extends State<MyApp> {
       ],
       child: OverlaySupport(
         child: MaterialApp(
-          title: 'Masterstudy',
+          title: 'Campuzify Mobile',
           theme: AppTheme().themeLight,
           initialRoute: SplashScreen.routeName,
           debugShowCheckedModeBanner: false,

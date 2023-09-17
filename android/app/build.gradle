@@ -56,7 +56,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.stylemixthemes.masterstudyapp"
+        applicationId "com.CampuzifyMobile.courses"
         minSdkVersion 21
         targetSdkVersion 33
         versionCode flutterVersionCode.toInteger()

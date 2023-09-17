@@ -9,7 +9,7 @@
 
     <application
         android:icon="@mipmap/ic_launcher"
-        android:label="MasterStudy"
+        android:label="Campuzify Mobile"
         android:requestLegacyExternalStorage="true"
         >
         <activity
