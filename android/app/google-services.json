@@ -1,0 +1,72 @@
+{
+  "project_info": {
+    "project_number": "787470094102",
+    "firebase_url": "https://masterstudy-app.firebaseio.com",
+    "project_id": "masterstudy-app",
+    "storage_bucket": "masterstudy-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787470094102:android:5349b4d65a5ad432844a37",
+        "android_client_info": {
+          "package_name": "com.stylemixthemes.masterstudyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787470094102-49pfn19e9qfj4q0vm2pb26tbfm1m55uh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stylemixthemes.masterstudyapp",
+            "certificate_hash": "c81eb1b43ec8c6452e8a03cae9b40aa2dd072d0a"
+          }
+        },
+        {
+          "client_id": "787470094102-5lrusgfs73af29t93i4klkud7c1v2nbn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stylemixthemes.masterstudyapp",
+            "certificate_hash": "c26ea7d07d08f0ae11a2ec2ba4f86016094b154a"
+          }
+        },
+        {
+          "client_id": "787470094102-5pepp7fu6pim8ccnv4jqfssep7v02df8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stylemixthemes.masterstudyapp",
+            "certificate_hash": "7fca0e647bc2a7a4a9e11f57f95fa6e4b4f6deca"
+          }
+        },
+        {
+          "client_id": "787470094102-8un268jd46hbsmu4q9eg2uf0ed7humhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxF3ldM-OC2kXwH83ZlFQfpnxAF65Q2Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787470094102-8un268jd46hbsmu4q9eg2uf0ed7humhn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "787470094102-6lp9528tvcfulk5b4f1oj3f2sc26duq2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.stylemixthemes.masterstudyapp",
+                "app_store_id": "1512748469"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
