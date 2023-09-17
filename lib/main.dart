@@ -54,6 +54,7 @@ void main() async {
   preferences = await SharedPreferences.getInstance();
 
   await Firebase.initializeApp(
+    name: 'campuzify-mobile',
     options: DefaultFirebaseOptions.currentPlatform,
   );
 
