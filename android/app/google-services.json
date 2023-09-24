@@ -22,6 +22,14 @@
           }
         },
         {
+          "client_id": "39925667164-gghihp06jjvkb97fl49qbnebvhkjhfd8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.CampuzifyMobile.courses",
+            "certificate_hash": "62b337a64b257eb271e1c64113762b65e8231fac"
+          }
+        },
+        {
           "client_id": "39925667164-5e1k02mihl3hqnhi8oav7a6dpu6o5q43.apps.googleusercontent.com",
           "client_type": 3
         }
